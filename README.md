@@ -7,7 +7,7 @@ The project was applying Agile throughout the full-stack development life cycle 
 #### Homepage
 ![homepage](https://github.com/user-attachments/assets/35a6354b-06c8-4896-909b-f253dbccd3c3)
 #### Event Search and Filter
-![filter_ps](https://github.com/user-attachments/assets/eec59fbd-3125-49f6-9070-593bc585f37b)
+![filter_ps](https://github.com/user-attachments/assets/da5bfcc3-0e7c-4cc5-8ba9-dee81eb40696)
 ### Event Detail
 ![event page_ps](https://github.com/user-attachments/assets/6287ec5f-b3c8-4e37-ac24-f774b5d7b7ff)
 ### Comment and Reply
